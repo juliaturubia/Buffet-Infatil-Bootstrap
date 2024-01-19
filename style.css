@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#logo{
+    width: 10%;
+}
+
+
+#conteudoNavbarSuportado ul li a{
+    font-size: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
+.servicos img{
+    width: 30%;
+ 
+}
+
+.fundo{
+    background-image: url(img/fundo.jpg);
+}
+
+#corfundo{
+    background-color: rgb(255, 255, 255);
+}
+
+.col-sm h1{
+    color: rgb(21, 107, 141);
+    text-align: center;
+  
+}
+
+#icone{
+    width: 50px;
+}
+
+#home{
+    margin-bottom: 20px;
+}
+
+#fotos{
+    width: 50%;
+}
